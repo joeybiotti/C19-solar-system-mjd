@@ -1,0 +1,20 @@
+@import 'reset';
+
+$font-stack: Helvetica, sans-serif;
+$primary-color: #778899;
+$link-color: #1E90FF;
+$secondary-color: #2F4F4F;
+$third-color: #DC143C;
+$white: #F5F5F5;
+
+body{
+	font: $font-stack;
+	color: $primary-color;
+	background-color: $white;
+}
+
+h1{
+	color: $third-color;
+	font: $font-stack;
+}
+

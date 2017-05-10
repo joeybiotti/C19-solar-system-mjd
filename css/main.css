@@ -1,0 +1,15 @@
+html,
+body,
+ul,
+ol {
+  margin: 0;
+  padding: 0; }
+
+body {
+  font: Helvetica, sans-serif;
+  color: #778899;
+  background-color: #F5F5F5; }
+
+h1 {
+  color: #DC143C;
+  font: Helvetica, sans-serif; }
